@@ -1,0 +1,24 @@
+body{
+    background-color: darkgoldenrod;
+}
+
+.quote-container{
+    margin-top: 25vh;
+    background-color: orange;
+    margin-bottom: 5vh;
+    
+}
+
+h3{
+    display: inline;
+    padding-left: 10px;
+}
+
+p{
+    padding-top: 10px;
+    padding-right: 30px;
+}
+
+button{
+    font-size: x-large;
+}
