@@ -1,0 +1,17 @@
+body{
+    background-color: lightseagreen;
+}
+
+.box{
+    background-color: rgb(220, 235, 245);
+    margin-top: 30vh;
+}
+
+.hide{
+    color: red;
+    display: none;
+}
+
+.show{
+    display: block;
+}
