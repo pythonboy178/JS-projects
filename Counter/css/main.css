@@ -1,0 +1,19 @@
+body{
+    background-image: url('../img/bg.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box{
+    margin-top: 25vh;
+    border: 5px solid white;
+    box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.9);
+}
+
+h3{
+    font-size: 4em;
+}
+
+h1{
+    font-size: 8em;
+}
