@@ -4,8 +4,12 @@ body{
     background-size: cover;
 }
 
+.max-height{
+    min-height: 100vh;
+}
+
 .box{
-    margin-top: 25vh;
+    margin-top: 5vh;
     border: 5px solid white;
     box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.9);
 }
