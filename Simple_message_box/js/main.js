@@ -11,7 +11,7 @@ button.addEventListener('click',function(e){
         notification.classList.add('show')
     }else{
         notification.classList.remove('show')
-        document.getElementById('pre-msg').innerText = input.value
+        message.innerText = input.value
         input.value = ''
     }  
 })

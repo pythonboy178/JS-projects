@@ -2,9 +2,12 @@ body{
     background-color: lightseagreen;
 }
 
+.max-height{
+    min-height: 100vh;
+}
+
 .box{
     background-color: rgb(220, 235, 245);
-    margin-top: 30vh;
 }
 
 .hide{
@@ -15,3 +18,8 @@ body{
 .show{
     display: block;
 }
+
+
+
+
+
