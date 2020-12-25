@@ -1,0 +1,113 @@
+body{
+    background-image: url('../images/flag.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.max-height{
+    min-height: 100vh;
+}
+
+h1, h2, h3, p {
+   color: white; 
+}
+
+h2{
+    margin-top: 2em;
+}
+
+h5{
+    color: white;
+}
+
+.box{
+    position: relative;
+    border: 5px solid orangered;
+    margin-bottom: 5vh;
+}
+
+
+.header{
+    position: relative;
+    margin-bottom: 7em;
+}
+
+img{
+    position: absolute;
+    width: 30%;
+    border-radius: 50%;
+    left: 35%;
+    top: -23%;
+    border: 5px solid orangered;
+}
+
+.btn{
+    transition:  2s;
+}
+
+.btn:hover{
+    background: red;
+    color: white;
+}
+
+.left-btn{
+    position: absolute;
+    top:40%;
+    left:-15%;
+    background: orangered;
+    padding: 1em 0.2em;
+    border-radius: 50%;
+}
+
+.right-btn{
+    position: absolute;
+    top:40%;
+    right:-15%;
+    background: orangered;
+    padding: 1em 0.2em;
+    border-radius: 50%;
+}
+
+span{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+table{
+    position: relative;
+    color: white;
+    left:41%;
+}
+
+td {
+    padding: 5px 10px;
+    font-size: 1.3rem;
+    font-weight: 600;
+  }
+
+@media screen and (max-width: 900px) {
+ 
+.header {
+    position: relative;
+    margin-bottom: 4em;
+    margin-top: 2em;
+} 
+
+img {
+    position: absolute;
+    width: 45%;
+    border-radius: 50%;
+    left: 28%;
+    top: -7%;
+    border: 5px solid orangered;
+}
+
+table {
+    position: relative;
+    color: white;
+    left: 22%;
+}
+    
+  }
+
