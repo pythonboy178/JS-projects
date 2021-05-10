@@ -7,11 +7,21 @@ let val = 0
 
 buttons.forEach(function(button){
     button.addEventListener('click',function(){
-        if(val < 3){
-            val ++
-        }else{
-            val = 0
+        if(this.classList.contains('left')){
+            if(val > 0){
+                val--
+            }else{
+                val = 3
+            }
         }
+        else if(this.classList.contains('right')){
+            if(val < 3){
+                val ++
+            }else{
+                val = 0
+            }
+        }
+        
         img.src = './images/'+images[val]
 
     })
