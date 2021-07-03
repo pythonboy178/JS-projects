@@ -1,0 +1,14 @@
+.top{
+    background: darkslategrey;
+}
+
+.top h1{
+    color: white;
+    padding: 1em 0em;
+}
+
+.top input{
+    border: 5px solid red;
+    border-radius: 20px;
+    margin-right: 2em;
+}

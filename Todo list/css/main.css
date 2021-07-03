@@ -1,0 +1,36 @@
+.box{
+    margin-top: 25vh;
+    background: wheat;
+}
+
+ul{
+    height: 200px;
+    overflow-y: auto;
+}
+
+li{
+    overflow: hidden;
+    height: 3em;
+}
+
+li span{
+    cursor: pointer;
+}
+
+li:hover .circle{
+    left: 90%;
+}
+
+.circle{
+    background: red;
+    font-size: 1em;
+    position: absolute;
+    left: 105%;
+}
+
+
+
+
+
+
+
