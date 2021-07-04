@@ -23,6 +23,5 @@ buttons.forEach(function(button){
         }
         
         img.src = './images/'+images[val]
-
     })
 })
