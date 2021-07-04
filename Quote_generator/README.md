@@ -8,4 +8,4 @@ This project generates limited random quotes when Generate Quote is clicked
 
 ## Demo Link
 
-https://priceless-ardinghelli-0b9560.netlify.app/
+https://60e17196ae1c690fcd225bd8--priceless-ardinghelli-0b9560.netlify.app/
