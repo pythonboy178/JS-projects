@@ -8,5 +8,4 @@ A simple project that shows a message box, where you can input texts and see the
 
 ## Demo Link
 
-https://priceless-ardinghelli-0b9560.netlify.app/
-
+https://60e172baf36dd599b1fc74a4--priceless-ardinghelli-0b9560.netlify.app/
