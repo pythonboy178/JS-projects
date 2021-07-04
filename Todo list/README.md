@@ -8,4 +8,4 @@ A simple todo list interface that lets you add or delete your todos.
 
 ## Demo Link
 
-https://priceless-ardinghelli-0b9560.netlify.app/
+https://60e17311c5f3c19668b1693a--priceless-ardinghelli-0b9560.netlify.app/
