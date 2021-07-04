@@ -8,4 +8,4 @@ A basic interface that lets you add or subtract 1 by clicking buttons.
 
 ## Demo Link
 
-https://priceless-ardinghelli-0b9560.netlify.app/
+https://60e16e073a6af37e09aa1104--priceless-ardinghelli-0b9560.netlify.app/
