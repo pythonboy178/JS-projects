@@ -8,4 +8,4 @@ A basic image slider.
 
 ## Demo Link
 
-https://priceless-ardinghelli-0b9560.netlify.app/
+https://60e16fca17dd34d6732fd601--priceless-ardinghelli-0b9560.netlify.app/
