@@ -12,6 +12,11 @@ h1, h2, h3, p {
    color: white; 
 }
 
+p{
+    font-size: 18px;
+    font-weight: 500;
+}
+
 h2{
     margin-top: 2em;
 }

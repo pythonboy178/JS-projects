@@ -14,7 +14,7 @@ const data = [{
     fielding:4,
 },{
     image:'riyad.jpg',
-    name:'Mahmudullah',
+    name:'Mohammad Mahmudullah',
     profile:'Mahmudullah Riyad, often known simply as Mahmudullah, is a Bangladeshi cricketer and the current T20I captain. He has played First-class and List A cricket for Dhaka Division and has represented Bangladesh in all forms of the game. An all-rounder, he is a lower or middle-order batsman as well as an off spin bowler.',
     batting:4,
     bowling:3,
