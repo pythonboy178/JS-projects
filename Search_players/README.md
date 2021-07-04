@@ -8,4 +8,4 @@ An interface that lets you filter cricket players according to their cricket rol
 
 ## Demo Link
 
-https://priceless-ardinghelli-0b9560.netlify.app/
+https://60e172504dd64e81381ef0bb--priceless-ardinghelli-0b9560.netlify.app/
